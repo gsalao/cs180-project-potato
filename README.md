@@ -1,4 +1,4 @@
-# Potato Leaf Disease Image Classifier
+# 🥔 Potato Leaf Disease Image Classifier
 
 This project implements an image classification model to automatically detect and classify diseases in potato plant leaves using deep learning with and without transformer-based architectures. The classifier is trained to recognize multiple disease categories (such as Phytopthora, Fungi, Bacteria, etc.) as well as healthy leaves, helping farmers and agricultural experts diagnose issues early and accurately.
 
